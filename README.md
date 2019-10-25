@@ -11,14 +11,15 @@ https://github.com/Symplify/EasyCodingStandard - Easiest way to start using PHP 
 
 https://github.com/squizlabs/PHP_CodeSniffer - PHP_CodeSniffer - used by default
 
+Configure:
+
+  - https://medium.com/hackernoon/how-to-configure-phpstorm-to-use-php-cs-fixer-1844991e521f
+
+  - https://thiagoponte.wordpress.com/2015/08/03/run-php-codesniffer-code-beautifier-and-fixer-from-phpstorm/
+    
+
 https://github.com/FriendsOfPHP/PHP-CS-Fixer
 
-  Configure:
-  
-    - https://medium.com/hackernoon/how-to-configure-phpstorm-to-use-php-cs-fixer-1844991e521f
-    
-    - https://thiagoponte.wordpress.com/2015/08/03/run-php-codesniffer-code-beautifier-and-fixer-from-phpstorm/
-    
     
 Static code analize:
 
