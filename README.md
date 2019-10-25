@@ -28,3 +28,5 @@ Static code analize:
 https://github.com/mamuz/PhpDependencyAnalysis
 
 https://github.com/phpstan/phpstan
+
+https://mlocati.github.io - This is a kind of a personal list of notes for myself. 
