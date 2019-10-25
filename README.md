@@ -20,6 +20,8 @@ Configure:
 
 https://github.com/FriendsOfPHP/PHP-CS-Fixer
 
+  - https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/1628 - OrderedClassElementsFixer
+
     
 Static code analize:
 
