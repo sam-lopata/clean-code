@@ -32,6 +32,17 @@ https://github.com/phpstan/phpstan
 https://mlocati.github.io - This is a kind of a personal list of notes for myself. 
 
 
+## GitLab
+
 https://github.com/edbizarro/gitlab-ci-pipeline-php - Build and test PHP applications with Gitlab CI (or any other CI plataform!
 
 https://forum.gitlab.com/t/custom-code-quality-tool/20496 - Custom code quality tool with gitlab-ci
+
+https://gitlab.com/gitlab-org/gitlab/issues/34982 and then see
+https://gitlab.com/gitlab-org/gitlab-runner/pipelines/89607232 - good example of rich pipeline wich fail on code quality degradation
+
+## Monorepo - multirepo
+
+https://www.tomasvotruba.cz/blog/2018/07/19/how-to-make-github-and-travis-split-monorepo-to-multiple-git-repositories-for-you/
+
+
