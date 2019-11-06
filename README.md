@@ -33,3 +33,5 @@ https://mlocati.github.io - This is a kind of a personal list of notes for mysel
 
 
 https://github.com/edbizarro/gitlab-ci-pipeline-php - Build and test PHP applications with Gitlab CI (or any other CI plataform!
+
+https://forum.gitlab.com/t/custom-code-quality-tool/20496 - Custom code quality tool with gitlab-ci
