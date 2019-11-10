@@ -45,4 +45,6 @@ https://gitlab.com/gitlab-org/gitlab-runner/pipelines/89607232 - good example of
 
 https://www.tomasvotruba.cz/blog/2018/07/19/how-to-make-github-and-travis-split-monorepo-to-multiple-git-repositories-for-you/
 
+## Common
 
+https://wp-kama.ru/id_6310/php-evolution.html
